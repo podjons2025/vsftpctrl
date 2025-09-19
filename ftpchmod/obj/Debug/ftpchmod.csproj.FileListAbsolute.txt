@@ -1,0 +1,16 @@
+C:\Users\0063743\documents\visual studio 2015\Projects\ftpchmod\ftpchmod\bin\Debug\ftpchmod.exe.config
+C:\Users\0063743\documents\visual studio 2015\Projects\ftpchmod\ftpchmod\bin\Debug\ftpchmod.exe
+C:\Users\0063743\documents\visual studio 2015\Projects\ftpchmod\ftpchmod\bin\Debug\ftpchmod.pdb
+C:\Users\0063743\documents\visual studio 2015\Projects\ftpchmod\ftpchmod\obj\Debug\ftpchmod.ftpchmod.resources
+C:\Users\0063743\documents\visual studio 2015\Projects\ftpchmod\ftpchmod\obj\Debug\ftpchmod.Properties.Resources.resources
+C:\Users\0063743\documents\visual studio 2015\Projects\ftpchmod\ftpchmod\obj\Debug\ftpchmod.csproj.GenerateResource.Cache
+C:\Users\0063743\documents\visual studio 2015\Projects\ftpchmod\ftpchmod\obj\Debug\ftpchmod.exe
+C:\Users\0063743\documents\visual studio 2015\Projects\ftpchmod\ftpchmod\obj\Debug\ftpchmod.pdb
+C:\Users\cti\Documents\Visual Studio 2015\Projects\ftpchmod\ftpchmod\bin\Debug\ftpchmod.exe.config
+C:\Users\cti\Documents\Visual Studio 2015\Projects\ftpchmod\ftpchmod\obj\Debug\ftpchmod.exe
+C:\Users\cti\Documents\Visual Studio 2015\Projects\ftpchmod\ftpchmod\obj\Debug\ftpchmod.pdb
+C:\Users\cti\Documents\Visual Studio 2015\Projects\ftpchmod\ftpchmod\bin\Debug\ftpchmod.exe
+C:\Users\cti\Documents\Visual Studio 2015\Projects\ftpchmod\ftpchmod\bin\Debug\ftpchmod.pdb
+C:\Users\cti\Documents\Visual Studio 2015\Projects\ftpchmod\ftpchmod\obj\Debug\ftpchmod.ftpchmod.resources
+C:\Users\cti\Documents\Visual Studio 2015\Projects\ftpchmod\ftpchmod\obj\Debug\ftpchmod.Properties.Resources.resources
+C:\Users\cti\Documents\Visual Studio 2015\Projects\ftpchmod\ftpchmod\obj\Debug\ftpchmod.csproj.GenerateResource.Cache
