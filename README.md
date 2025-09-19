@@ -1,4 +1,4 @@
-vsftp 管理工具
+vsftp 管理工具（编译环境 Visual Studio 2015）
 
 默认目录：local_root=/data/virtual/ftp-data/ftp-21port/
 
